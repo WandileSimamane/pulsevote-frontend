@@ -30,7 +30,6 @@ The API will establish a connection to MongoDB and run securely on https://local
 2. Start the Frontend Client
 Open a second, separate terminal window, navigate to the frontend directory, and start the Vite development server:
 
-Bash
 # Navigate to the frontend folder
 cd pulsevote-frontend
 
