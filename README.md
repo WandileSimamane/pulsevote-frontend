@@ -27,7 +27,7 @@ npm install
 npm start
 The API will establish a connection to MongoDB and run securely on https://localhost:5000.
 
-2. Start the Frontend Client
+### 2. Start the Frontend Client
 Open a second, separate terminal window, navigate to the frontend directory, and start the Vite development server:
 
 # Navigate to the frontend folder
@@ -40,7 +40,7 @@ npm install
 npm run dev
 The frontend will run securely on https://localhost:5173/.
 
-3. Access the Application
+### 3. Access the Application
 Once both servers are running, hold Ctrl and click the https://localhost:5173/ link in your frontend terminal to open the application in your web browser.
 
 Note on Browser Security Warnings:
